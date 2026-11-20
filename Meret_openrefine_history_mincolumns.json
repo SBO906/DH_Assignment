@@ -1,0 +1,77 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_copy",
+    "description": "Remove column imprint_copy"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "publisher_version_1",
+    "description": "Remove column publisher_version_1"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "publisher_version_2",
+    "description": "Remove column publisher_version_2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "cleaned_imprint_version_",
+    "description": "Remove column cleaned_imprint_version_"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_location_1",
+    "description": "Remove column imprint_location_1"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_location_2",
+    "description": "Remove column imprint_location_2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Imprint_dates_in_brackets",
+    "description": "Remove column Imprint_dates_in_brackets"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_dates_punctuation",
+    "description": "Remove column imprint_dates_punctuation"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_dates_punctuation_2",
+    "description": "Remove column imprint_dates_punctuation_2"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "hyphenated_imprint",
+    "description": "Remove column hyphenated_imprint"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "short_date_test",
+    "description": "Remove column short_date_test"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_dates_uncertainty find()",
+    "description": "Remove column imprint_dates_uncertainty find()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "dates_uncertainty_clean replace()",
+    "description": "Remove column dates_uncertainty_clean replace()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_dates find()",
+    "description": "Remove column imprint_dates find()"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "imprint_dates replace()",
+    "description": "Remove column imprint_dates replace()"
+  }
+]
