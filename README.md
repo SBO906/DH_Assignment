@@ -53,7 +53,7 @@ Transform cells in publisher_version_1: if(value.length() - value.replace("[", "
 
 publisher_version_2 based on publisher_version_2: value.replace(/^(.*),.*[0-9].*$/,"$1"): remove everything after the last comma if a digit is present, most commas are still in front of time information
 
-bublisher_no_date based on publisher_version_2: if(value.replace(/.*[0-9]{4}.*/, "FOUND") == "FOUND", null, value): after some manual cleaning, finds all 4-digit numbers and removes all data from the entry, later set to NULL,as the only information in the entry is the date which is captured in the date column
+publisher_no_date based on publisher_version_2: if(value.replace(/.*[0-9]{4}.*/, "FOUND") == "FOUND", null, value): after some manual cleaning, finds all 4-digit numbers and removes all data from the entry, later set to NULL,as the only information in the entry is the date which is captured in the date column
 
 Manually go through clustering, Key collision, function fingerprint, keeping square brackets and question marks that indicate later imput and uncertainty
 
