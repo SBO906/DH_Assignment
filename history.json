@@ -1,0 +1,175 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Corporate author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Société d'Histoire et d'Archéologie de Chalon-sur-Saône (Chalon-Sur-SAÔNE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Société d'Histoire et d'Archéologie de Chalon-sur-Saône (Chalon-Sur-Saone)"
+      }
+    ],
+    "description": "Mass edit cells in column Corporate author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Corporate author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Société des Bibliophiles Liégeois (LIÉGE). Marneffe (Edgar de)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Société des Bibliophiles Liégeois (Liège). Marneffe (Edgar de)"
+      }
+    ],
+    "description": "Mass edit cells in column Corporate author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Corporate author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Société d'Histoire et d'Archéologie de Chalon-sur-Saône (Chalon-Sur-Saone)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Société d'Histoire et d'Archéologie de Chalon-sur-Saône (Chalon-sur-Saône)"
+      }
+    ],
+    "description": "Mass edit cells in column Corporate author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Corporate author",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Null"
+      }
+    ],
+    "description": "Mass edit cells in column Corporate author"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Edition",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Null"
+      }
+    ],
+    "description": "Mass edit cells in column Edition"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Other corporate authors",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "London.",
+          "London"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "London."
+      }
+    ],
+    "description": "Mass edit cells in column Other corporate authors"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Other corporate authors",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "$aEngland."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "England."
+      }
+    ],
+    "description": "Mass edit cells in column Other corporate authors"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Other corporate authors",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Null"
+      }
+    ],
+    "description": "Mass edit cells in column Other corporate authors"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "DDC",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Null"
+      }
+    ],
+    "description": "Mass edit cells in column DDC"
+  }
+]
